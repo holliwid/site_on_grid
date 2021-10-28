@@ -55,6 +55,9 @@ div.images{
 
 footer{
     background-color: #f7ba2b;
+    color: black;
+    width: 100%;
+    padding-left: 46%;
 }
 
 #pageHeader {
